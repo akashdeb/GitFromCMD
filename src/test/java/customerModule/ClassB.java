@@ -6,6 +6,10 @@ public class ClassB {
 		System.out.println("Demo Print");
 
 		System.out.println("Test Print");
+		
+		System.out.println("Test Print");
+		
+		
 	}
 
 }

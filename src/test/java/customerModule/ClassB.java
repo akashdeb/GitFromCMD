@@ -9,6 +9,9 @@ public class ClassB {
 
 		System.out.println("Real Print");
 
+		System.out.println("Print by Anmol");
+	
+
 	}
 
 }
